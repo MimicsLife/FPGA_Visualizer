@@ -13,7 +13,7 @@ This repository contains a Python-based visualization tool for FPGA designs.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/CelIsDividing/FPGA_Visualizer.git
+   git clone https://github.com/MimicsLife/FPGA_Visualizer.git
    cd FPGA_Visualizer
    ```
 
